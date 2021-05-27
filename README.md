@@ -41,7 +41,7 @@ Other utilities:
 
 <br/>
 
-I like computers:computer:, books:books:, music:musical_score:, and video-games:video_game:.
+I like doing yoga 🧘‍♀️ , seeing anime 👩🏻‍💻 , computers 💻 and having fun ✨
 <br/>
 <br/>
 

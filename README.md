@@ -6,7 +6,7 @@
 
 <br/><hr>
 ### I'm a Jr Web Developer.
-A graduate of the Ironhack Web Development Full Time Bootcam. I'm an enthusiast of learning and self-improvement. My background in fine arts and design enriches my vision of programming, and my time in the service industry enriches my communication skills. 
+Graduate of the Ironhack Web Development Full Time Bootcam. I'm an enthusiast of learning and self-improvement. My background in fine arts and design enriches my vision of programming, and my time in the service industry enriches my communication skills. 
 
 Soft skills:
 * Hardworking 

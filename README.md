@@ -5,11 +5,16 @@
 
 
 <br/><hr>
-### I'm a FullStack Developer trainee.
-After studying fine arts and specializing in creative illustration and audiovisual communication, I worked as a freelance graphic designer. At the same time I worked in the service sector. At this point I felt very stagnant so I decided to make a change in my career and signed up for the Web Development Bootcamp at Ironhack. Web development makes me improve myself every day. 
+### I'm a Jr Web Developer.
+A graduate of the Ironhack Web Development Full Time Bootcam. I'm an enthusiast of learning and self-improvement. My background in fine arts and design enriches my vision of programming, and my time in the service industry enriches my communication skills. 
+
+Soft skills:
+* Hardworking 
+* Honest 
+* Reliable 
+* Team player
 
 My short-term objectives are: to improve my programming and logic skills, to know and master all the technologies I can, to find a goodjob, and to forge a great friendship with my teammates.
-
 
 Technologies:
 <br/>

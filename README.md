@@ -1,4 +1,4 @@
-## Hi! I'm Raquel Rodríguez 🌼 
+## Hi! I'm Raquel Rodríguez 🌼 <img align='right' width='200px' alt="GIF" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" /> 
 
 [<img align='left' alt=' raquelrodriguez | LinkedIn' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2012/96/iconmonstr-linkedin-2.png' />][linkedin]
 [<img align='left' alt=' raquelrodriguez | Gmail' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2018/96/iconmonstr-gmail-2.png' />][Gmail]
@@ -55,7 +55,7 @@ I like doing yoga 🧘‍♀️ , seeing anime 👩🏻‍💻 , computers 💻 
 <img alt='CodeWars' src='https://www.codewars.com/users/srtamaciel/badges/large' />
 
 
-![Raquel's github stats](https://github-readme-stats.vercel.app/api?username=srtamaciel&theme=material-palenight&show_icons=true)  <img align='right' width='340px' alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> 
+![Raquel's github stats](https://github-readme-stats.vercel.app/api?username=srtamaciel&theme=material-palenight&show_icons=true)  
 
 [linkedin]: https://www.linkedin.com/in/raquel-rodriguez-diaz/
 [Gmail]: mailto:srtademaciel@gmail.com

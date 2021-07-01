@@ -1,14 +1,14 @@
-## Hi! I'm Raquel Rodríguez 🌼 <img align='right' width='200px' alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> 
+## Hi! I'm Raquel Rodríguez 🌼 
 
 [<img align='left' alt=' raquelrodriguez | LinkedIn' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2012/96/iconmonstr-linkedin-2.png' />][linkedin]
 [<img align='left' alt=' raquelrodriguez | Gmail' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2018/96/iconmonstr-gmail-2.png' />][Gmail]
 
 
 
-<br/>
+<br/><hr>
 
 ### I'm a Jr Web Developer.
-Graduate of the Ironhack Web Development Full Time Bootcam. I'm an enthusiast of learning and self-improvement. My background in fine arts and design enriches my vision of programming, and my time in the service industry enriches my communication skills. 
+Graduate of the Ironhack Web Development Full Time Bootcam. I'm an enthusiast of learning and self-improvement. My background in fine arts and design enriches my vision of programming, and my time in the service industry enriches my communication skills.  <img align='right' width='200px' alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> 
 
 Soft skills:
 * Hardworking 

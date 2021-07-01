@@ -1,4 +1,5 @@
-## Hi! I'm Raquel Rodríguez 🌼 <img align='right' width='200px' alt="GIF" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" /> 
+<img align='right' width='200px' alt="GIF" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" /> 
+## Hi! I'm Raquel Rodríguez 🌼 
 
 [<img align='left' alt=' raquelrodriguez | LinkedIn' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2012/96/iconmonstr-linkedin-2.png' />][linkedin]
 [<img align='left' alt=' raquelrodriguez | Gmail' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2018/96/iconmonstr-gmail-2.png' />][Gmail]

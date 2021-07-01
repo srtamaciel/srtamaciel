@@ -55,7 +55,7 @@ I like doing yoga 🧘‍♀️ , seeing anime 👩🏻‍💻 , computers 💻 
 <img alt='CodeWars' src='https://www.codewars.com/users/srtamaciel/badges/large' />
 
 
-![Raquel's github stats](https://github-readme-stats.vercel.app/api?username=srtamaciel&theme=material-palenight&show_icons=true)  <img align='right' width='300px' alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> 
+![Raquel's github stats](https://github-readme-stats.vercel.app/api?username=srtamaciel&theme=material-palenight&show_icons=true)  <img align='right' width='400px' alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> 
 
 [linkedin]: https://www.linkedin.com/in/raquel-rodriguez-diaz/
 [Gmail]: mailto:srtademaciel@gmail.com

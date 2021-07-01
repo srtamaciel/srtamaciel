@@ -10,7 +10,7 @@
 ### I'm a Jr Web Developer.
 Graduate of the Ironhack Web Development Full Time Bootcam. I'm an enthusiast of learning and self-improvement. My background in fine arts and design enriches my vision of programming, and my time in the service industry enriches my communication skills.  
 
-Soft skills: <img align='right' width='300px' alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> 
+Soft skills:
 * Hardworking 
 * Honest 
 * Reliable 
@@ -55,7 +55,7 @@ I like doing yoga 🧘‍♀️ , seeing anime 👩🏻‍💻 , computers 💻 
 <img alt='CodeWars' src='https://www.codewars.com/users/srtamaciel/badges/large' />
 
 
-![Raquel's github stats](https://github-readme-stats.vercel.app/api?username=srtamaciel&theme=material-palenight&show_icons=true)
+![Raquel's github stats](https://github-readme-stats.vercel.app/api?username=srtamaciel&theme=material-palenight&show_icons=true)  <img align='right' width='300px' alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> 
 
 [linkedin]: https://www.linkedin.com/in/raquel-rodriguez-diaz/
 [Gmail]: mailto:srtademaciel@gmail.com

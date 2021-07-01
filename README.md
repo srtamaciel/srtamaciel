@@ -1,4 +1,4 @@
-<img width='200px' alt="GIF" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" /> 
+<img align='center' width='200px' alt="GIF" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" /> 
 
 ## Hi! I'm Raquel Rodríguez 🌼 
 

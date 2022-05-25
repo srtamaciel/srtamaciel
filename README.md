@@ -11,7 +11,7 @@
 ### I'm a junior software Developer.
 'm an enthusiast of learning and self-improvement. My background in fine arts and design enriches my vision of programming, and my time in the service industry enriches my communication skills.
 
-Currently working on a travel company using Angular 13,Typescript, GpraphQl and Apollo GraphQl
+Currently working as Frontend Developer on a travel company using Angular 13,Typescript, GpraphQl and Apollo GraphQl.
 
 
 Soft skills:
@@ -43,11 +43,13 @@ Other utilities:
 <img alt='Git' src='https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic' />
 <img alt='GitHub' src='https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white&style=plastic' />
 <img alt='GitLab' src='https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white' />
-<img alt='Slack' src='https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white&style=plastic' />
+<img alt='Kibana' src='https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=white' />
+<img alt='Jenkins' src='https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white&style=plastic' />
+<br/>
 <img alt='Insomnia' src='https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=Insomnia&logoColor=white' />
 <img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white&style=plastic' />
 <img alt='Grafana' src='https://img.shields.io/badge/Grafana-F2F4F9?style=flat&logo=grafana&logoColor=orange&labelColor=F2F4F9' />
-<img alt='Kibana' src='https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=white' />
+<img alt='Slack' src='https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white&style=plastic' />
 
 <br/>
 

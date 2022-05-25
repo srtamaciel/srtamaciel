@@ -43,7 +43,7 @@ Other utilities:
 <img alt='GitHub' src='https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white&style=plastic' />
 <img alt='GitLab' src='https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white' />
 <img alt='Kibana' src='https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=white' />
-<img alt='Jenkins' src='https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white&style=plastic' />
+<img alt='Jenkins' src='https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white' />
 <br/>
 <img alt='Insomnia' src='https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=Insomnia&logoColor=white' />
 <img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white&style=plastic' />

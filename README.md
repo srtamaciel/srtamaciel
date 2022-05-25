@@ -8,8 +8,11 @@
 
 <br/><hr>
 
-### I'm a junior Web Developer.
-Graduate of the Ironhack Web Development Full Time Bootcam. I'm an enthusiast of learning and self-improvement. My background in fine arts and design enriches my vision of programming, and my time in the service industry enriches my communication skills.  
+### I'm a junior software Developer.
+'m an enthusiast of learning and self-improvement. My background in fine arts and design enriches my vision of programming, and my time in the service industry enriches my communication skills.
+
+Currently working on a travel company using Angular 13,Typescript, GpraphQl and Apollo GraphQl
+
 
 Soft skills:
 * Hardworking 
@@ -26,6 +29,8 @@ Technologies:
 <img alt='Angular' src='https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white' />
 <img alt='Typescript' src='https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white' />
 <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
+<img alt='GraphQl' src='https://img.shields.io/badge/GraphQl-E10098?style=flat&logo=graphql&logoColor=white' />
+<img alt='ApolloGraphQl' src='https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=flat=Apollo%20GraphQL&logoColor=white' />
 <br/>
 <img alt='NodeJS' src='https://img.shields.io/badge/-NodeJs-339933?logo=Nodejs&logoColor=white&style=plastic' />
 <img alt='MongoDB' src='http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&style=plastic' />

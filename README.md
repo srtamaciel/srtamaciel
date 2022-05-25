@@ -5,11 +5,10 @@
 [<img align='left' alt=' raquelrodriguez | Gmail' width='32px' src='https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-gmail-1.png' />][Gmail]
 
 
-
 <br/><hr>
 
-### I'm a junior software Developer.
-'m an enthusiast of learning and self-improvement. My background in fine arts and design enriches my vision of programming, and my time in the service industry enriches my communication skills.
+### I'm a junior Software Developer
+I'm an enthusiast of learning and self-improvement. My background in fine arts and design enriches my vision of programming, and my time in the service industry enriches my communication skills.
 
 Currently working as Frontend Developer on a travel company using Angular 13,Typescript, GpraphQl and Apollo GraphQl.
 

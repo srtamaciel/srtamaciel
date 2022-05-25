@@ -25,7 +25,6 @@ Technologies:
 <img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white' />
 <img alt='Angular' src='https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white' />
 <img alt='Typescript' src='https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white' />
-<img alt='Bootstrap' src='https://img.shields.io/badge/-Bootsrap-7952B3?logo=bootstrap&logoColor=white&style=plastic' />
 <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
 <br/>
 <br/>
@@ -43,6 +42,7 @@ Other utilities:
 <img alt='Slack' src='https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white&style=plastic' />
 <img alt='Insomnia' src='https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=Insomnia&logoColor=white' />
 <img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white&style=plastic' />
+<img alt='Grafana' src='https://img.shields.io/badge/Grafana-F2F4F9?style=flat&logo=grafana&logoColor=orange&labelColor=F2F4F9' />
 
 <br/>
 

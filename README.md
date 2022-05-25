@@ -24,7 +24,7 @@ Technologies:
 <br/>
 <img alt='ReactJS' src='https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white' />
 <img alt='Angular' src='https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white' />
-<img alt='Typescript' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' />
+<img alt='Typescript' src='https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white' />
 <img alt='Bootstrap' src='https://img.shields.io/badge/-Bootsrap-7952B3?logo=bootstrap&logoColor=white&style=plastic' />
 <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
 <br/>

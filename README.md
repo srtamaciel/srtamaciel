@@ -27,7 +27,6 @@ Technologies:
 <img alt='Typescript' src='https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white' />
 <img alt='JavaScript' src='https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic' />
 <br/>
-<br/>
 <img alt='NodeJS' src='https://img.shields.io/badge/-NodeJs-339933?logo=Nodejs&logoColor=white&style=plastic' />
 <img alt='MongoDB' src='http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&style=plastic' />
 <img alt='NPM' src='https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white&style=plastic' />
@@ -43,6 +42,7 @@ Other utilities:
 <img alt='Insomnia' src='https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=Insomnia&logoColor=white' />
 <img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white&style=plastic' />
 <img alt='Grafana' src='https://img.shields.io/badge/Grafana-F2F4F9?style=flat&logo=grafana&logoColor=orange&labelColor=F2F4F9' />
+<img alt='Kibana' src='https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=white' />
 
 <br/>
 

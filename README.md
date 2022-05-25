@@ -1,8 +1,8 @@
 
 ## Hi! I'm Raquel Rodríguez 🌼 
 
-[<img align='left' alt=' raquelrodriguez | LinkedIn' width='32px' src='https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-linkedin-3.png&r=0&g=0&b=0'/>][linkedin](https://www.linkedin.com/in/raquel-rodriguez-diaz/)
-[<img align='left' alt=' raquelrodriguez | Gmail' width='32px' src='https://cdns.iconmonstr.com/wp-content/assets/preview/2018/96/iconmonstr-gmail-2.png' />][Gmail]
+[<img align='left' alt=' raquelrodriguez | LinkedIn' width='32px' src='https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-linkedin-3.png&r=0&g=0&b=0'/>][linkedin]
+[<img align='left' alt=' raquelrodriguez | Gmail' width='32px' src='https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-gmail-1.png' />][Gmail]
 
 
 

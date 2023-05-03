@@ -19,8 +19,6 @@ Soft skills:
 * Reliable 
 * Team player
 
-My short-term objectives are: to improve my programming and logic skills, to know and master all the technologies I can, to find a goodjob, and to forge a great friendship with my teammates.
-
 Technologies:
 <br/>
 <br/>
@@ -53,7 +51,7 @@ Other utilities:
 
 <br/>
 
-I like doing yoga 🧘‍♀️ , seeing anime 👩🏻‍💻 , computers 💻 and having fun ✨
+I like working out 💪🏻, spending time with my cat 🐈‍⬛ , take care of my plants 🌸 and having fun ✨
 <br/>
 <br/>
 

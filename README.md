@@ -7,7 +7,7 @@
 
 <br/><hr>
 
-### I'm a junior Software Developer
+### I'm Software Engineer
 I'm an enthusiast of learning and self-improvement. My background in fine arts and design enriches my vision of programming, and my time in the service industry enriches my communication skills.
 
 Currently working as Frontend Developer on a travel company using Angular 13, Typescript, GpraphQl and Apollo GraphQl. Jenkins for deploys and Jira for tickets.
